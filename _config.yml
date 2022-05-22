@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Fotios KOunelis"
+locale                   : "en-GB"
+title                    : "Fotios Kounelis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Fotios Kounelis"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Fotios Kounelis"
-  avatar           : "/assets/images/logo.png"
+  avatar           : "/logo.png"
   bio              : "PhD Student working on compiler optmizations"
   location         : "Imperial College London, UK"
   email            :
