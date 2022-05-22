@@ -7,6 +7,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.author__urls{
-  font-size: 19px !important;
+.sidebar sticky{
+  opacity:1 !important;
 }
