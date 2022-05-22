@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Fotios Kounelis"
-  avatar           : "/logo.png"
+  avatar           : "/logo.jpg"
   bio              : "PhD Student working on compiler optmizations"
   location         : "Imperial College London, UK"
   email            :
@@ -118,7 +118,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Fotios-Kounelis-2"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=I0eDk6IAAAAJ&hl=en"
 
 
